@@ -1,0 +1,14 @@
+@media screen and (max-width: 500px) {
+  body {
+    background-image: url('../images/pattern-background-mobile.svg');
+  }
+  .card, .img-box img {
+    max-width: 335px;
+  }
+  .card {
+    padding-bottom: 0;
+  }
+  .main-box {
+    padding: 20px;
+  }
+}
